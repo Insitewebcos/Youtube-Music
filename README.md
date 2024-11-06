@@ -1,5 +1,5 @@
 # Youtube Music
- Download Youtube Music from url
+ Download Youtube Music from url with Python Code
 
 For the script to work correctly on your PC, you need to have yt-dlp and FFmpeg installed. Here I explain how to install each one and configure it in your PATH.
 
